@@ -88,3 +88,50 @@ A mobile application concept for discovering, reserving, and paying for parking 
 - Change Password (email + verification code flow)
 - Driving License Info (license number, expiry date, image upload)
 
+### 5) Parking Search, Booking & Reservation
+
+**Search parking spots (Driver)**
+- Address/keyword search
+- Filters: vehicle type, price range, distance
+- Map view + list view results
+
+**Real-time availability (Driver)**
+- Auto refresh every 30 seconds
+- Status indicators: Green (available), Red (taken), Amber (expiring)
+- “Last updated” timestamp
+
+**Slot booking flow (Driver)**
+- Select date/time/duration
+- Choose vehicle
+- Slot held for 10 minutes during payment
+- Booking summary before confirmation
+
+**Booking confirmation (Driver)**
+- Confirmation screen includes QR code
+- Confirmation via SMS/push
+- Booking ID + details
+- Option to add to calendar
+
+
+**Manage bookings (Driver)**
+- Tabs: upcoming, active, past
+- Cancel up to 2 hours before start
+- Extend booking if the spot is free
+
+**Booking cancellation (Driver)**
+- Cancel reason required
+- Refund policy shown before confirm
+- Full refund if cancelled ≥ 2 hours early; 50% forfeited within 2 hours
+
+### 6) Payments
+
+- 50% advance payment to hold slot
+- Remaining balance payment (at arrival / as configured)
+- Payment methods: card, mobile banking
+- Transaction history with filters and payment status
+
+### 7) Notifications
+
+- Real-time alerts for bookings, payments, and system messages
+- Stored notification history
+- 
