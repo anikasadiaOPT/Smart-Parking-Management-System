@@ -134,4 +134,18 @@ A mobile application concept for discovering, reserving, and paying for parking 
 
 - Real-time alerts for bookings, payments, and system messages
 - Stored notification history
-- 
+
+### 8) Parking Lot Owner Features
+
+- View/Edit profile
+- Manage slots (list, add, edit, delete)
+- Add parking space/listing (pending admin approval)
+- Earnings dashboard and transaction list
+
+### 9) Admin Panel
+
+- Manage customers/drivers (search, filter, block/unblock)
+- Manage parking owners (approve/reject, status filters)
+- Manage bookings (approve/cancel, status filters)
+- Manage payments (confirm/refund, status filters)
+
