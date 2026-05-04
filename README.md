@@ -13,7 +13,7 @@ A mobile application concept for discovering, reserving, and paying for parking 
 
 ## Client
 
-**MOBARAK GROUP AND INDUSTRY**
+**SOFTWARE GROUP AND INDUSTRY**
 
 ## Product Overview
 
