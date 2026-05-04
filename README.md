@@ -68,4 +68,23 @@ A mobile application concept for discovering, reserving, and paying for parking 
 - Summary cards: Total Earnings, Active Slots, Pending Bookings, Confirmed Bookings.
 - Menu: My Slots, Add New Slot, Booking Requests, Earnings, Profile, Change Password, Logout.
 
+### 3) Navigation (Top & Bottom Bars)
+
+**Top bar**
+- Platform logo/name (links to dashboard)
+- Global search
+- Notification bell
+- Profile dropdown (View Profile, Settings, Logout)
+
+**Bottom bar**
+- About Us | Contact | Privacy Policy | Terms of Service
+- Copyright + year
+
+### 4) Driver Profile & Verification
+
+- View Profile (personal + vehicle information)
+- Edit Profile (update basic info, gender, DOB, vehicle type)
+- Change Profile Photo (png/jpg)
+- Change Password (email + verification code flow)
+- Driving License Info (license number, expiry date, image upload)
 
