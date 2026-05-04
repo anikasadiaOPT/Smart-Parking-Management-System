@@ -63,8 +63,9 @@ A mobile application concept for discovering, reserving, and paying for parking 
 - Summary cards: Total Users, Total Parking Spots, Total Bookings, Total Revenue.
 - Management sections: Customer/Driver, Parking Lot Owner, Parking Management, Booking Management, Payment, Reports, Settings.
 
+
 **Parking Lot Owner dashboard**
 - Summary cards: Total Earnings, Active Slots, Pending Bookings, Confirmed Bookings.
 - Menu: My Slots, Add New Slot, Booking Requests, Earnings, Profile, Change Password, Logout.
 
-### 3) Navigation 
+
